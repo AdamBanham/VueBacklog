@@ -1,7 +1,7 @@
 {
-  "name": "my-package-with-components",
+  "name": "vueBacklog",
   "version": "1.0.0",
   "files": [
-    "lib/js/components/**.vue"
+    "**.vue"
   ]
 }
