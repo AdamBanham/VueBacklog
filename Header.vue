@@ -20,7 +20,7 @@ export default {
     display: flex;
     width:100%;
     height: 50px;
-    background-color: orange;
+    background-color: black;
 }
 p{
     width: 100%;
