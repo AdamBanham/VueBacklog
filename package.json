@@ -1,0 +1,7 @@
+{
+  "name": "my-package-with-components",
+  "version": "1.0.0",
+  "files": [
+    "lib/js/components/**.vue"
+  ]
+}
